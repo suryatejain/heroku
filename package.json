@@ -1,0 +1,29 @@
+{
+  "name": "heroku",
+  "version": "0.0.0",
+  "description": "testing",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryatejain/heroku.git"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "surya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suryatejain/heroku/issues"
+  },
+  "homepage": "https://github.com/suryatejain/heroku",
+  "dependencies": {
+    "logfmt": "~0.20.0",
+    "express": "~3.4.8"
+  }
+}
